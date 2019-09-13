@@ -1,0 +1,653 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/marta/AndroidStudioProjects/whatsapp/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/marta/AndroidStudioProjects/whatsapp/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/marta/AndroidStudioProjects/whatsapp/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/marta/AndroidStudioProjects/whatsapp/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:2:1-29:12
+MERGED from [com.android.support:multidex:1.0.2] /Users/marta/.gradle/caches/transforms-2/files-2.1/f2790c01c44d0a7595852cf9f47ec5b9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/ea81b47f59553fae097659d4979bf273/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-cast-framework:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/6d33409458f694cebc8d2e55bcd5be26/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-cast:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/5f5dc28114f40940871c7ff2d5c698c6/AndroidManifest.xml:16:1-20:12
+MERGED from [com.android.support:mediarouter-v7:23.0.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/a083b636d82600193206735d18b52e92/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:23.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/abab5f4ba219744d19bf12b51efa0889/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/marta/.gradle/caches/transforms-2/files-2.1/f108727cde6f7779056c59dc469d2d3d/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/8972a12fc596af4072568f2d9587aba3/AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/7825704863c4992e0d900c569fd7672c/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-ads:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/13e2cc29db355e9fac4fa5926726233f/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/cc0c00d2f4701a956c7408dd5509f3da/AndroidManifest.xml:16:1-33:12
+MERGED from [com.google.android.gms:play-services-analytics:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/ce90a39b210f309fec304af95e991640/AndroidManifest.xml:16:1-28:12
+MERGED from [com.google.android.gms:play-services-tagmanager:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/765515f344dbbf2b411e7280ca7af5d6/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/a5637bdbbc8e5ea2f387790830e824d5/AndroidManifest.xml:16:1-28:12
+MERGED from [com.google.android.gms:play-services-appinvite:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/6bc88dedd1e1881fdf575448d8bbb096/AndroidManifest.xml:16:1-31:12
+MERGED from [com.google.android.gms:play-services-auth:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/d79a1c0c5d107fde6c2a24edbb20febb/AndroidManifest.xml:16:1-33:12
+MERGED from [com.google.android.gms:play-services-auth-base:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/f7efb051a8105487da03669ba66d28b7/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-clearcut:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/c816fe6273e3d2692c7ccaa421e241df/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.firebase:firebase-config:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/8f187920e9dba74b9e8854f638a0e82b/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-contextmanager:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/adef248524915d87ca56a48b33d50615/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.firebase:firebase-crash:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/1555000eff6fd2ddb740f31fce08ad01/AndroidManifest.xml:16:1-34:12
+MERGED from [com.google.android.gms:play-services-games:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/43a1cc5abbe609ad6ab582a19ba397dd/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-drive:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/bd8d94711885c796e4abfb040946a91b/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.firebase:firebase-auth:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/fbae7e0e2b73804798eec5be5e8a253f/AndroidManifest.xml:16:1-22:12
+MERGED from [com.google.firebase:firebase-auth-common:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/b1d1969a6260cbf45ae902e9019cfddb/AndroidManifest.xml:16:1-22:12
+MERGED from [com.google.firebase:firebase-auth-module:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/e22b469bca98922c17afcdead69a06eb/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-database:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/c1a0a4257f1f439a537bec70f1d6aa1b/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-database-connection:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/dd3998851a353ba5fb7cadff6bedaa9b/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-storage:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/823dc2d57e1e821ef539329ccc170186/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-storage-common:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/16410f12f41433b9a6081ba68d2efd94/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-fitness:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/7922aacfe2dab9a02eb3488d4c766b9a/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-gcm:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/4bc0812e3616d4926433ef0b093e2be8/AndroidManifest.xml:16:1-25:12
+MERGED from [com.google.android.gms:play-services-appindexing:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/8bc9f26faf4aac6e75c171bb99d23082/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-wallet:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/b892979d631a069e214099f1f617f861/AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.android.gms:play-services-identity:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/ffbaa2854fe46b321dcbac9a872bff99/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-iid:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/a2847e80e109b2582c2a815c9343ece2/AndroidManifest.xml:16:1-25:12
+MERGED from [com.google.android.gms:play-services-location:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/2ee991d5656f03c627cfcc1acef85bd0/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-places:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/63373b2a6a380f0e8d9b7518420ce8db/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-maps:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/453dbabd6b7d3790482b330cae3f8d9e/AndroidManifest.xml:16:1-28:12
+MERGED from [com.google.android.gms:play-services-nearby:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/e8950449e4419a4e68a60716895394b2/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-panorama:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/8bf72418b42216b821530f2431e112d3/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-plus:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/8b62107dff5fbf129e94d1bb1283ed50/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-safetynet:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/fcf5d59bb54901b9cc8cbbf8b480570e/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-vision:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/83f0a44bd48598952f3096640dd9bffa/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-wearable:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/e64e6b1845d76cb1e9bf07a5646ad1ad/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-base:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/8995d2606cb4c4d0ac56487697423e26/AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.firebase:firebase-messaging:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/156a8a7b30eca40c5ab54109888e681f/AndroidManifest.xml:16:1-33:12
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/b92382c7e5b06cdd86984d3eea4a3f49/AndroidManifest.xml:16:1-39:12
+MERGED from [com.google.firebase:firebase-analytics:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/d9fd6b76d180b5b4c0bf769c81d8fa4c/AndroidManifest.xml:16:1-42:12
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/1564192e19e200d6503cd8c8c74ef3c0/AndroidManifest.xml:16:1-42:12
+MERGED from [com.google.firebase:firebase-iid:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/e612eaf747145c2dc3df946edec28b9b/AndroidManifest.xml:16:1-60:12
+MERGED from [com.google.firebase:firebase-common:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/00995a89bb22332a5f6fc99b76d00616/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.gms:play-services-gass:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/4345bd3ef71e8133b9b61ab7a45f1adf/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/fdaa73ec08022b7bb44040351d7470af/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/ca7eeb6ee5953d0e7a163ad6e3188ccd/AndroidManifest.xml:16:1-26:12
+MERGED from [com.android.support:support-v4:23.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/a9f39a2e9444a8f7caac6ef044d10c9a/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/marta/AndroidStudioProjects/whatsapp/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/marta/AndroidStudioProjects/whatsapp/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/marta/AndroidStudioProjects/whatsapp/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:2:1-29:12
+	package
+		ADDED from /Users/marta/AndroidStudioProjects/whatsapp/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:3:5-32
+		INJECTED from /Users/marta/AndroidStudioProjects/whatsapp/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
+		INJECTED from /Users/marta/AndroidStudioProjects/whatsapp/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/marta/AndroidStudioProjects/whatsapp/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
+		ADDED from /Users/marta/AndroidStudioProjects/whatsapp/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:2:1-29:12
+		INJECTED from /Users/marta/AndroidStudioProjects/whatsapp/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/marta/AndroidStudioProjects/whatsapp/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
+		ADDED from /Users/marta/AndroidStudioProjects/whatsapp/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:2:1-29:12
+		INJECTED from /Users/marta/AndroidStudioProjects/whatsapp/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/marta/AndroidStudioProjects/whatsapp/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/marta/AndroidStudioProjects/whatsapp/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:5:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/cc0c00d2f4701a956c7408dd5509f3da/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/cc0c00d2f4701a956c7408dd5509f3da/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/ce90a39b210f309fec304af95e991640/AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-analytics:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/ce90a39b210f309fec304af95e991640/AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/a5637bdbbc8e5ea2f387790830e824d5/AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/a5637bdbbc8e5ea2f387790830e824d5/AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-appinvite:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/6bc88dedd1e1881fdf575448d8bbb096/AndroidManifest.xml:19:5-67
+MERGED from [com.google.android.gms:play-services-appinvite:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/6bc88dedd1e1881fdf575448d8bbb096/AndroidManifest.xml:19:5-67
+MERGED from [com.google.firebase:firebase-crash:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/1555000eff6fd2ddb740f31fce08ad01/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-crash:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/1555000eff6fd2ddb740f31fce08ad01/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-gcm:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/4bc0812e3616d4926433ef0b093e2be8/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-gcm:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/4bc0812e3616d4926433ef0b093e2be8/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-iid:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/a2847e80e109b2582c2a815c9343ece2/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-iid:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/a2847e80e109b2582c2a815c9343ece2/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-maps:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/453dbabd6b7d3790482b330cae3f8d9e/AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-maps:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/453dbabd6b7d3790482b330cae3f8d9e/AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/b92382c7e5b06cdd86984d3eea4a3f49/AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/b92382c7e5b06cdd86984d3eea4a3f49/AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-analytics:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/d9fd6b76d180b5b4c0bf769c81d8fa4c/AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-analytics:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/d9fd6b76d180b5b4c0bf769c81d8fa4c/AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/1564192e19e200d6503cd8c8c74ef3c0/AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/1564192e19e200d6503cd8c8c74ef3c0/AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-iid:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/e612eaf747145c2dc3df946edec28b9b/AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-iid:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/e612eaf747145c2dc3df946edec28b9b/AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from /Users/marta/AndroidStudioProjects/whatsapp/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/marta/AndroidStudioProjects/whatsapp/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:6:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/cc0c00d2f4701a956c7408dd5509f3da/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/cc0c00d2f4701a956c7408dd5509f3da/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/ce90a39b210f309fec304af95e991640/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-analytics:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/ce90a39b210f309fec304af95e991640/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/a5637bdbbc8e5ea2f387790830e824d5/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/a5637bdbbc8e5ea2f387790830e824d5/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-maps:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/453dbabd6b7d3790482b330cae3f8d9e/AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-maps:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/453dbabd6b7d3790482b330cae3f8d9e/AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-nearby:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/e8950449e4419a4e68a60716895394b2/AndroidManifest.xml:5:5-79
+MERGED from [com.google.android.gms:play-services-nearby:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/e8950449e4419a4e68a60716895394b2/AndroidManifest.xml:5:5-79
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/b92382c7e5b06cdd86984d3eea4a3f49/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/b92382c7e5b06cdd86984d3eea4a3f49/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-analytics:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/d9fd6b76d180b5b4c0bf769c81d8fa4c/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-analytics:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/d9fd6b76d180b5b4c0bf769c81d8fa4c/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/1564192e19e200d6503cd8c8c74ef3c0/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/1564192e19e200d6503cd8c8c74ef3c0/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/e612eaf747145c2dc3df946edec28b9b/AndroidManifest.xml:20:5-79
+MERGED from [com.google.firebase:firebase-iid:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/e612eaf747145c2dc3df946edec28b9b/AndroidManifest.xml:20:5-79
+	android:name
+		ADDED from /Users/marta/AndroidStudioProjects/whatsapp/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:6:22-76
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/marta/AndroidStudioProjects/whatsapp/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from /Users/marta/AndroidStudioProjects/whatsapp/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:7:22-77
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/marta/AndroidStudioProjects/whatsapp/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from /Users/marta/AndroidStudioProjects/whatsapp/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:8:22-76
+application
+ADDED from /Users/marta/AndroidStudioProjects/whatsapp/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:10:5-27:19
+MERGED from [com.google.android.gms:play-services:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/ea81b47f59553fae097659d4979bf273/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/ea81b47f59553fae097659d4979bf273/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-cast-framework:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/6d33409458f694cebc8d2e55bcd5be26/AndroidManifest.xml:5:5-9:19
+MERGED from [com.google.android.gms:play-services-cast-framework:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/6d33409458f694cebc8d2e55bcd5be26/AndroidManifest.xml:5:5-9:19
+MERGED from [com.google.android.gms:play-services-cast:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/5f5dc28114f40940871c7ff2d5c698c6/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-cast:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/5f5dc28114f40940871c7ff2d5c698c6/AndroidManifest.xml:19:5-20
+MERGED from [com.android.support:mediarouter-v7:23.0.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/a083b636d82600193206735d18b52e92/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:mediarouter-v7:23.0.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/a083b636d82600193206735d18b52e92/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/abab5f4ba219744d19bf12b51efa0889/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:23.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/abab5f4ba219744d19bf12b51efa0889/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/marta/.gradle/caches/transforms-2/files-2.1/f108727cde6f7779056c59dc469d2d3d/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/marta/.gradle/caches/transforms-2/files-2.1/f108727cde6f7779056c59dc469d2d3d/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/8972a12fc596af4072568f2d9587aba3/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/8972a12fc596af4072568f2d9587aba3/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/7825704863c4992e0d900c569fd7672c/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/7825704863c4992e0d900c569fd7672c/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/cc0c00d2f4701a956c7408dd5509f3da/AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/cc0c00d2f4701a956c7408dd5509f3da/AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.android.gms:play-services-analytics:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/ce90a39b210f309fec304af95e991640/AndroidManifest.xml:27:5-20
+MERGED from [com.google.android.gms:play-services-analytics:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/ce90a39b210f309fec304af95e991640/AndroidManifest.xml:27:5-20
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/a5637bdbbc8e5ea2f387790830e824d5/AndroidManifest.xml:27:5-20
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/a5637bdbbc8e5ea2f387790830e824d5/AndroidManifest.xml:27:5-20
+MERGED from [com.google.android.gms:play-services-appinvite:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/6bc88dedd1e1881fdf575448d8bbb096/AndroidManifest.xml:20:5-30:19
+MERGED from [com.google.android.gms:play-services-appinvite:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/6bc88dedd1e1881fdf575448d8bbb096/AndroidManifest.xml:20:5-30:19
+MERGED from [com.google.android.gms:play-services-auth:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/d79a1c0c5d107fde6c2a24edbb20febb/AndroidManifest.xml:20:5-32:19
+MERGED from [com.google.android.gms:play-services-auth:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/d79a1c0c5d107fde6c2a24edbb20febb/AndroidManifest.xml:20:5-32:19
+MERGED from [com.google.android.gms:play-services-clearcut:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/c816fe6273e3d2692c7ccaa421e241df/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/c816fe6273e3d2692c7ccaa421e241df/AndroidManifest.xml:19:5-20
+MERGED from [com.google.firebase:firebase-config:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/8f187920e9dba74b9e8854f638a0e82b/AndroidManifest.xml:19:5-20
+MERGED from [com.google.firebase:firebase-config:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/8f187920e9dba74b9e8854f638a0e82b/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-contextmanager:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/adef248524915d87ca56a48b33d50615/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-contextmanager:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/adef248524915d87ca56a48b33d50615/AndroidManifest.xml:19:5-20
+MERGED from [com.google.firebase:firebase-crash:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/1555000eff6fd2ddb740f31fce08ad01/AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.firebase:firebase-crash:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/1555000eff6fd2ddb740f31fce08ad01/AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.android.gms:play-services-games:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/43a1cc5abbe609ad6ab582a19ba397dd/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-games:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/43a1cc5abbe609ad6ab582a19ba397dd/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-drive:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/bd8d94711885c796e4abfb040946a91b/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-drive:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/bd8d94711885c796e4abfb040946a91b/AndroidManifest.xml:19:5-20
+MERGED from [com.google.firebase:firebase-auth:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/fbae7e0e2b73804798eec5be5e8a253f/AndroidManifest.xml:20:5-21:19
+MERGED from [com.google.firebase:firebase-auth:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/fbae7e0e2b73804798eec5be5e8a253f/AndroidManifest.xml:20:5-21:19
+MERGED from [com.google.firebase:firebase-auth-common:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/b1d1969a6260cbf45ae902e9019cfddb/AndroidManifest.xml:20:5-21:19
+MERGED from [com.google.firebase:firebase-auth-common:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/b1d1969a6260cbf45ae902e9019cfddb/AndroidManifest.xml:20:5-21:19
+MERGED from [com.google.android.gms:play-services-fitness:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/7922aacfe2dab9a02eb3488d4c766b9a/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-fitness:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/7922aacfe2dab9a02eb3488d4c766b9a/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-gcm:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/4bc0812e3616d4926433ef0b093e2be8/AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-gcm:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/4bc0812e3616d4926433ef0b093e2be8/AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-appindexing:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/8bc9f26faf4aac6e75c171bb99d23082/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-appindexing:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/8bc9f26faf4aac6e75c171bb99d23082/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-identity:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/ffbaa2854fe46b321dcbac9a872bff99/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-identity:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/ffbaa2854fe46b321dcbac9a872bff99/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-iid:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/a2847e80e109b2582c2a815c9343ece2/AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-iid:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/a2847e80e109b2582c2a815c9343ece2/AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-location:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/2ee991d5656f03c627cfcc1acef85bd0/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-location:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/2ee991d5656f03c627cfcc1acef85bd0/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-places:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/63373b2a6a380f0e8d9b7518420ce8db/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-places:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/63373b2a6a380f0e8d9b7518420ce8db/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-maps:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/453dbabd6b7d3790482b330cae3f8d9e/AndroidManifest.xml:27:5-20
+MERGED from [com.google.android.gms:play-services-maps:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/453dbabd6b7d3790482b330cae3f8d9e/AndroidManifest.xml:27:5-20
+MERGED from [com.google.android.gms:play-services-nearby:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/e8950449e4419a4e68a60716895394b2/AndroidManifest.xml:6:5-20
+MERGED from [com.google.android.gms:play-services-nearby:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/e8950449e4419a4e68a60716895394b2/AndroidManifest.xml:6:5-20
+MERGED from [com.google.android.gms:play-services-panorama:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/8bf72418b42216b821530f2431e112d3/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-panorama:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/8bf72418b42216b821530f2431e112d3/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-plus:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/8b62107dff5fbf129e94d1bb1283ed50/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-plus:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/8b62107dff5fbf129e94d1bb1283ed50/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/fcf5d59bb54901b9cc8cbbf8b480570e/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/fcf5d59bb54901b9cc8cbbf8b480570e/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-vision:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/83f0a44bd48598952f3096640dd9bffa/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-vision:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/83f0a44bd48598952f3096640dd9bffa/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-wearable:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/e64e6b1845d76cb1e9bf07a5646ad1ad/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-wearable:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/e64e6b1845d76cb1e9bf07a5646ad1ad/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/8995d2606cb4c4d0ac56487697423e26/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/8995d2606cb4c4d0ac56487697423e26/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.firebase:firebase-messaging:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/156a8a7b30eca40c5ab54109888e681f/AndroidManifest.xml:20:5-32:19
+MERGED from [com.google.firebase:firebase-messaging:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/156a8a7b30eca40c5ab54109888e681f/AndroidManifest.xml:20:5-32:19
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/b92382c7e5b06cdd86984d3eea4a3f49/AndroidManifest.xml:24:5-38:19
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/b92382c7e5b06cdd86984d3eea4a3f49/AndroidManifest.xml:24:5-38:19
+MERGED from [com.google.firebase:firebase-analytics:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/d9fd6b76d180b5b4c0bf769c81d8fa4c/AndroidManifest.xml:26:5-41:19
+MERGED from [com.google.firebase:firebase-analytics:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/d9fd6b76d180b5b4c0bf769c81d8fa4c/AndroidManifest.xml:26:5-41:19
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/1564192e19e200d6503cd8c8c74ef3c0/AndroidManifest.xml:26:5-41:19
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/1564192e19e200d6503cd8c8c74ef3c0/AndroidManifest.xml:26:5-41:19
+MERGED from [com.google.firebase:firebase-iid:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/e612eaf747145c2dc3df946edec28b9b/AndroidManifest.xml:30:5-59:19
+MERGED from [com.google.firebase:firebase-iid:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/e612eaf747145c2dc3df946edec28b9b/AndroidManifest.xml:30:5-59:19
+MERGED from [com.google.firebase:firebase-common:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/00995a89bb22332a5f6fc99b76d00616/AndroidManifest.xml:5:5-12:19
+MERGED from [com.google.firebase:firebase-common:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/00995a89bb22332a5f6fc99b76d00616/AndroidManifest.xml:5:5-12:19
+MERGED from [com.google.android.gms:play-services-gass:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/4345bd3ef71e8133b9b61ab7a45f1adf/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-gass:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/4345bd3ef71e8133b9b61ab7a45f1adf/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/fdaa73ec08022b7bb44040351d7470af/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/fdaa73ec08022b7bb44040351d7470af/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/ca7eeb6ee5953d0e7a163ad6e3188ccd/AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/ca7eeb6ee5953d0e7a163ad6e3188ccd/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/a9f39a2e9444a8f7caac6ef044d10c9a/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/a9f39a2e9444a8f7caac6ef044d10c9a/AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from /Users/marta/AndroidStudioProjects/whatsapp/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:14:9-41
+	android:icon
+		ADDED from /Users/marta/AndroidStudioProjects/whatsapp/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:13:9-43
+	android:allowBackup
+		ADDED from /Users/marta/AndroidStudioProjects/whatsapp/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from /Users/marta/AndroidStudioProjects/whatsapp/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:15:9-40
+	android:name
+		ADDED from /Users/marta/AndroidStudioProjects/whatsapp/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:11:9-43
+activity#com.parse.starter.chatActivity
+ADDED from /Users/marta/AndroidStudioProjects/whatsapp/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:16:9-59
+	android:name
+		ADDED from /Users/marta/AndroidStudioProjects/whatsapp/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:16:19-47
+activity#com.parse.starter.UserListActivity
+ADDED from /Users/marta/AndroidStudioProjects/whatsapp/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:17:9-54
+	android:name
+		ADDED from /Users/marta/AndroidStudioProjects/whatsapp/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:17:19-51
+activity#com.parse.starter.MainActivity
+ADDED from /Users/marta/AndroidStudioProjects/whatsapp/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:18:9-26:20
+	android:label
+		ADDED from /Users/marta/AndroidStudioProjects/whatsapp/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:20:13-45
+	android:name
+		ADDED from /Users/marta/AndroidStudioProjects/whatsapp/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:19:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/marta/AndroidStudioProjects/whatsapp/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from /Users/marta/AndroidStudioProjects/whatsapp/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from /Users/marta/AndroidStudioProjects/whatsapp/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/marta/AndroidStudioProjects/whatsapp/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from /Users/marta/AndroidStudioProjects/whatsapp/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:24:27-74
+uses-sdk
+INJECTED from /Users/marta/AndroidStudioProjects/whatsapp/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/marta/AndroidStudioProjects/whatsapp/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
+INJECTED from /Users/marta/AndroidStudioProjects/whatsapp/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
+MERGED from [com.android.support:multidex:1.0.2] /Users/marta/.gradle/caches/transforms-2/files-2.1/f2790c01c44d0a7595852cf9f47ec5b9/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.2] /Users/marta/.gradle/caches/transforms-2/files-2.1/f2790c01c44d0a7595852cf9f47ec5b9/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/ea81b47f59553fae097659d4979bf273/AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/ea81b47f59553fae097659d4979bf273/AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-cast-framework:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/6d33409458f694cebc8d2e55bcd5be26/AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-cast-framework:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/6d33409458f694cebc8d2e55bcd5be26/AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-cast:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/5f5dc28114f40940871c7ff2d5c698c6/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-cast:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/5f5dc28114f40940871c7ff2d5c698c6/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:mediarouter-v7:23.0.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/a083b636d82600193206735d18b52e92/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:mediarouter-v7:23.0.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/a083b636d82600193206735d18b52e92/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/abab5f4ba219744d19bf12b51efa0889/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:23.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/abab5f4ba219744d19bf12b51efa0889/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/marta/.gradle/caches/transforms-2/files-2.1/f108727cde6f7779056c59dc469d2d3d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/marta/.gradle/caches/transforms-2/files-2.1/f108727cde6f7779056c59dc469d2d3d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/8972a12fc596af4072568f2d9587aba3/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/8972a12fc596af4072568f2d9587aba3/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/7825704863c4992e0d900c569fd7672c/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/7825704863c4992e0d900c569fd7672c/AndroidManifest.xml:5:5-43
+MERGED from [com.google.android.gms:play-services-ads:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/13e2cc29db355e9fac4fa5926726233f/AndroidManifest.xml:19:5-42
+MERGED from [com.google.android.gms:play-services-ads:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/13e2cc29db355e9fac4fa5926726233f/AndroidManifest.xml:19:5-42
+MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/cc0c00d2f4701a956c7408dd5509f3da/AndroidManifest.xml:23:5-42
+MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/cc0c00d2f4701a956c7408dd5509f3da/AndroidManifest.xml:23:5-42
+MERGED from [com.google.android.gms:play-services-analytics:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/ce90a39b210f309fec304af95e991640/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-analytics:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/ce90a39b210f309fec304af95e991640/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-tagmanager:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/765515f344dbbf2b411e7280ca7af5d6/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-tagmanager:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/765515f344dbbf2b411e7280ca7af5d6/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/a5637bdbbc8e5ea2f387790830e824d5/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/a5637bdbbc8e5ea2f387790830e824d5/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appinvite:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/6bc88dedd1e1881fdf575448d8bbb096/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appinvite:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/6bc88dedd1e1881fdf575448d8bbb096/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-auth:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/d79a1c0c5d107fde6c2a24edbb20febb/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-auth:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/d79a1c0c5d107fde6c2a24edbb20febb/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-auth-base:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/f7efb051a8105487da03669ba66d28b7/AndroidManifest.xml:5:5-43
+MERGED from [com.google.android.gms:play-services-auth-base:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/f7efb051a8105487da03669ba66d28b7/AndroidManifest.xml:5:5-43
+MERGED from [com.google.android.gms:play-services-clearcut:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/c816fe6273e3d2692c7ccaa421e241df/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-clearcut:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/c816fe6273e3d2692c7ccaa421e241df/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-config:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/8f187920e9dba74b9e8854f638a0e82b/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-config:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/8f187920e9dba74b9e8854f638a0e82b/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-contextmanager:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/adef248524915d87ca56a48b33d50615/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-contextmanager:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/adef248524915d87ca56a48b33d50615/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-crash:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/1555000eff6fd2ddb740f31fce08ad01/AndroidManifest.xml:22:5-42
+MERGED from [com.google.firebase:firebase-crash:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/1555000eff6fd2ddb740f31fce08ad01/AndroidManifest.xml:22:5-42
+MERGED from [com.google.android.gms:play-services-games:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/43a1cc5abbe609ad6ab582a19ba397dd/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-games:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/43a1cc5abbe609ad6ab582a19ba397dd/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-drive:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/bd8d94711885c796e4abfb040946a91b/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-drive:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/bd8d94711885c796e4abfb040946a91b/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-auth:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/fbae7e0e2b73804798eec5be5e8a253f/AndroidManifest.xml:18:5-43
+MERGED from [com.google.firebase:firebase-auth:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/fbae7e0e2b73804798eec5be5e8a253f/AndroidManifest.xml:18:5-43
+MERGED from [com.google.firebase:firebase-auth-common:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/b1d1969a6260cbf45ae902e9019cfddb/AndroidManifest.xml:18:5-43
+MERGED from [com.google.firebase:firebase-auth-common:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/b1d1969a6260cbf45ae902e9019cfddb/AndroidManifest.xml:18:5-43
+MERGED from [com.google.firebase:firebase-auth-module:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/e22b469bca98922c17afcdead69a06eb/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-auth-module:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/e22b469bca98922c17afcdead69a06eb/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-database:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/c1a0a4257f1f439a537bec70f1d6aa1b/AndroidManifest.xml:5:5-43
+MERGED from [com.google.firebase:firebase-database:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/c1a0a4257f1f439a537bec70f1d6aa1b/AndroidManifest.xml:5:5-43
+MERGED from [com.google.firebase:firebase-database-connection:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/dd3998851a353ba5fb7cadff6bedaa9b/AndroidManifest.xml:5:5-43
+MERGED from [com.google.firebase:firebase-database-connection:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/dd3998851a353ba5fb7cadff6bedaa9b/AndroidManifest.xml:5:5-43
+MERGED from [com.google.firebase:firebase-storage:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/823dc2d57e1e821ef539329ccc170186/AndroidManifest.xml:5:5-43
+MERGED from [com.google.firebase:firebase-storage:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/823dc2d57e1e821ef539329ccc170186/AndroidManifest.xml:5:5-43
+MERGED from [com.google.firebase:firebase-storage-common:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/16410f12f41433b9a6081ba68d2efd94/AndroidManifest.xml:5:5-43
+MERGED from [com.google.firebase:firebase-storage-common:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/16410f12f41433b9a6081ba68d2efd94/AndroidManifest.xml:5:5-43
+MERGED from [com.google.android.gms:play-services-fitness:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/7922aacfe2dab9a02eb3488d4c766b9a/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-fitness:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/7922aacfe2dab9a02eb3488d4c766b9a/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-gcm:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/4bc0812e3616d4926433ef0b093e2be8/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-gcm:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/4bc0812e3616d4926433ef0b093e2be8/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appindexing:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/8bc9f26faf4aac6e75c171bb99d23082/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appindexing:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/8bc9f26faf4aac6e75c171bb99d23082/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-wallet:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/b892979d631a069e214099f1f617f861/AndroidManifest.xml:19:5-42
+MERGED from [com.google.android.gms:play-services-wallet:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/b892979d631a069e214099f1f617f861/AndroidManifest.xml:19:5-42
+MERGED from [com.google.android.gms:play-services-identity:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/ffbaa2854fe46b321dcbac9a872bff99/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-identity:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/ffbaa2854fe46b321dcbac9a872bff99/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-iid:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/a2847e80e109b2582c2a815c9343ece2/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-iid:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/a2847e80e109b2582c2a815c9343ece2/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-location:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/2ee991d5656f03c627cfcc1acef85bd0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-location:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/2ee991d5656f03c627cfcc1acef85bd0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-places:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/63373b2a6a380f0e8d9b7518420ce8db/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-places:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/63373b2a6a380f0e8d9b7518420ce8db/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-maps:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/453dbabd6b7d3790482b330cae3f8d9e/AndroidManifest.xml:26:5-42
+MERGED from [com.google.android.gms:play-services-maps:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/453dbabd6b7d3790482b330cae3f8d9e/AndroidManifest.xml:26:5-42
+MERGED from [com.google.android.gms:play-services-nearby:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/e8950449e4419a4e68a60716895394b2/AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-nearby:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/e8950449e4419a4e68a60716895394b2/AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-panorama:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/8bf72418b42216b821530f2431e112d3/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-panorama:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/8bf72418b42216b821530f2431e112d3/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-plus:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/8b62107dff5fbf129e94d1bb1283ed50/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-plus:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/8b62107dff5fbf129e94d1bb1283ed50/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-safetynet:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/fcf5d59bb54901b9cc8cbbf8b480570e/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-safetynet:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/fcf5d59bb54901b9cc8cbbf8b480570e/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-vision:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/83f0a44bd48598952f3096640dd9bffa/AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-vision:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/83f0a44bd48598952f3096640dd9bffa/AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-wearable:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/e64e6b1845d76cb1e9bf07a5646ad1ad/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-wearable:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/e64e6b1845d76cb1e9bf07a5646ad1ad/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/8995d2606cb4c4d0ac56487697423e26/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/8995d2606cb4c4d0ac56487697423e26/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-messaging:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/156a8a7b30eca40c5ab54109888e681f/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-messaging:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/156a8a7b30eca40c5ab54109888e681f/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/b92382c7e5b06cdd86984d3eea4a3f49/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/b92382c7e5b06cdd86984d3eea4a3f49/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-analytics:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/d9fd6b76d180b5b4c0bf769c81d8fa4c/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-analytics:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/d9fd6b76d180b5b4c0bf769c81d8fa4c/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/1564192e19e200d6503cd8c8c74ef3c0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/1564192e19e200d6503cd8c8c74ef3c0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-iid:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/e612eaf747145c2dc3df946edec28b9b/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-iid:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/e612eaf747145c2dc3df946edec28b9b/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-common:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/00995a89bb22332a5f6fc99b76d00616/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-common:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/00995a89bb22332a5f6fc99b76d00616/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-gass:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/4345bd3ef71e8133b9b61ab7a45f1adf/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-gass:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/4345bd3ef71e8133b9b61ab7a45f1adf/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/fdaa73ec08022b7bb44040351d7470af/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/fdaa73ec08022b7bb44040351d7470af/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/ca7eeb6ee5953d0e7a163ad6e3188ccd/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/ca7eeb6ee5953d0e7a163ad6e3188ccd/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/a9f39a2e9444a8f7caac6ef044d10c9a/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/a9f39a2e9444a8f7caac6ef044d10c9a/AndroidManifest.xml:20:5-43
+INJECTED from /Users/marta/AndroidStudioProjects/whatsapp/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
+INJECTED from /Users/marta/AndroidStudioProjects/whatsapp/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/abab5f4ba219744d19bf12b51efa0889/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/marta/AndroidStudioProjects/whatsapp/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
+		ADDED from /Users/marta/AndroidStudioProjects/whatsapp/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
+		INJECTED from /Users/marta/AndroidStudioProjects/whatsapp/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/marta/AndroidStudioProjects/whatsapp/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
+		ADDED from /Users/marta/AndroidStudioProjects/whatsapp/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
+		INJECTED from /Users/marta/AndroidStudioProjects/whatsapp/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
+receiver#com.google.android.gms.cast.framework.media.MediaIntentReceiver
+ADDED from [com.google.android.gms:play-services-cast-framework:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/6d33409458f694cebc8d2e55bcd5be26/AndroidManifest.xml:6:9-100
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/6d33409458f694cebc8d2e55bcd5be26/AndroidManifest.xml:6:19-97
+service#com.google.android.gms.cast.framework.media.MediaNotificationService
+ADDED from [com.google.android.gms:play-services-cast-framework:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/6d33409458f694cebc8d2e55bcd5be26/AndroidManifest.xml:7:9-104
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/6d33409458f694cebc8d2e55bcd5be26/AndroidManifest.xml:7:18-101
+service#com.google.android.gms.cast.framework.ReconnectionService
+ADDED from [com.google.android.gms:play-services-cast-framework:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/6d33409458f694cebc8d2e55bcd5be26/AndroidManifest.xml:8:9-92
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/6d33409458f694cebc8d2e55bcd5be26/AndroidManifest.xml:8:18-90
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/cc0c00d2f4701a956c7408dd5509f3da/AndroidManifest.xml:26:9-29:64
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/cc0c00d2f4701a956c7408dd5509f3da/AndroidManifest.xml:28:13-122
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/cc0c00d2f4701a956c7408dd5509f3da/AndroidManifest.xml:29:13-61
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/cc0c00d2f4701a956c7408dd5509f3da/AndroidManifest.xml:27:13-65
+activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/cc0c00d2f4701a956c7408dd5509f3da/AndroidManifest.xml:30:9-31:52
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/cc0c00d2f4701a956c7408dd5509f3da/AndroidManifest.xml:31:13-50
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/cc0c00d2f4701a956c7408dd5509f3da/AndroidManifest.xml:30:19-91
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-analytics:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/ce90a39b210f309fec304af95e991640/AndroidManifest.xml:25:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/a5637bdbbc8e5ea2f387790830e824d5/AndroidManifest.xml:25:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/a5637bdbbc8e5ea2f387790830e824d5/AndroidManifest.xml:25:5-67
+MERGED from [com.google.firebase:firebase-analytics:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/d9fd6b76d180b5b4c0bf769c81d8fa4c/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/d9fd6b76d180b5b4c0bf769c81d8fa4c/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/1564192e19e200d6503cd8c8c74ef3c0/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/1564192e19e200d6503cd8c8c74ef3c0/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-iid:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/e612eaf747145c2dc3df946edec28b9b/AndroidManifest.xml:22:5-68
+MERGED from [com.google.firebase:firebase-iid:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/e612eaf747145c2dc3df946edec28b9b/AndroidManifest.xml:22:5-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/ce90a39b210f309fec304af95e991640/AndroidManifest.xml:25:22-65
+activity#com.google.android.gms.appinvite.PreviewActivity
+ADDED from [com.google.android.gms:play-services-appinvite:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/6bc88dedd1e1881fdf575448d8bbb096/AndroidManifest.xml:21:9-29:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-appinvite:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/6bc88dedd1e1881fdf575448d8bbb096/AndroidManifest.xml:23:17-40
+	android:theme
+		ADDED from [com.google.android.gms:play-services-appinvite:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/6bc88dedd1e1881fdf575448d8bbb096/AndroidManifest.xml:24:17-63
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/6bc88dedd1e1881fdf575448d8bbb096/AndroidManifest.xml:22:17-48
+intent-filter#action:name:com.google.android.gms.appinvite.ACTION_PREVIEW+category:name:android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-appinvite:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/6bc88dedd1e1881fdf575448d8bbb096/AndroidManifest.xml:25:13-28:29
+action#com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/6bc88dedd1e1881fdf575448d8bbb096/AndroidManifest.xml:26:17-89
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/6bc88dedd1e1881fdf575448d8bbb096/AndroidManifest.xml:26:25-87
+category#android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-appinvite:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/6bc88dedd1e1881fdf575448d8bbb096/AndroidManifest.xml:27:17-75
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/6bc88dedd1e1881fdf575448d8bbb096/AndroidManifest.xml:27:27-73
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/d79a1c0c5d107fde6c2a24edbb20febb/AndroidManifest.xml:21:9-24:46
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/d79a1c0c5d107fde6c2a24edbb20febb/AndroidManifest.xml:23:19-52
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/d79a1c0c5d107fde6c2a24edbb20febb/AndroidManifest.xml:24:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/d79a1c0c5d107fde6c2a24edbb20febb/AndroidManifest.xml:22:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/d79a1c0c5d107fde6c2a24edbb20febb/AndroidManifest.xml:21:19-68
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/d79a1c0c5d107fde6c2a24edbb20febb/AndroidManifest.xml:28:9-31:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/d79a1c0c5d107fde6c2a24edbb20febb/AndroidManifest.xml:30:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/d79a1c0c5d107fde6c2a24edbb20febb/AndroidManifest.xml:31:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/d79a1c0c5d107fde6c2a24edbb20febb/AndroidManifest.xml:29:13-58
+service#com.google.firebase.crash.internal.service.FirebaseCrashReceiverService
+ADDED from [com.google.firebase:firebase-crash:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/1555000eff6fd2ddb740f31fce08ad01/AndroidManifest.xml:26:9-27:50
+	android:process
+		ADDED from [com.google.firebase:firebase-crash:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/1555000eff6fd2ddb740f31fce08ad01/AndroidManifest.xml:27:13-48
+	android:name
+		ADDED from [com.google.firebase:firebase-crash:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/1555000eff6fd2ddb740f31fce08ad01/AndroidManifest.xml:26:18-79
+service#com.google.firebase.crash.internal.service.FirebaseCrashSenderService
+ADDED from [com.google.firebase:firebase-crash:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/1555000eff6fd2ddb740f31fce08ad01/AndroidManifest.xml:29:9-30:50
+	android:process
+		ADDED from [com.google.firebase:firebase-crash:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/1555000eff6fd2ddb740f31fce08ad01/AndroidManifest.xml:30:13-48
+	android:name
+		ADDED from [com.google.firebase:firebase-crash:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/1555000eff6fd2ddb740f31fce08ad01/AndroidManifest.xml:29:18-77
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/4bc0812e3616d4926433ef0b093e2be8/AndroidManifest.xml:21:5-82
+MERGED from [com.google.android.gms:play-services-iid:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/a2847e80e109b2582c2a815c9343ece2/AndroidManifest.xml:21:5-82
+MERGED from [com.google.android.gms:play-services-iid:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/a2847e80e109b2582c2a815c9343ece2/AndroidManifest.xml:21:5-82
+MERGED from [com.google.firebase:firebase-iid:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/e612eaf747145c2dc3df946edec28b9b/AndroidManifest.xml:23:5-82
+MERGED from [com.google.firebase:firebase-iid:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/e612eaf747145c2dc3df946edec28b9b/AndroidManifest.xml:23:5-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/4bc0812e3616d4926433ef0b093e2be8/AndroidManifest.xml:21:22-79
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/453dbabd6b7d3790482b330cae3f8d9e/AndroidManifest.xml:22:5-24:33
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/453dbabd6b7d3790482b330cae3f8d9e/AndroidManifest.xml:23:8-40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/453dbabd6b7d3790482b330cae3f8d9e/AndroidManifest.xml:24:8-31
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/8995d2606cb4c4d0ac56487697423e26/AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/8995d2606cb4c4d0ac56487697423e26/AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/8995d2606cb4c4d0ac56487697423e26/AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/8995d2606cb4c4d0ac56487697423e26/AndroidManifest.xml:20:19-85
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/156a8a7b30eca40c5ab54109888e681f/AndroidManifest.xml:24:9-30:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/156a8a7b30eca40c5ab54109888e681f/AndroidManifest.xml:26:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/156a8a7b30eca40c5ab54109888e681f/AndroidManifest.xml:25:13-82
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/156a8a7b30eca40c5ab54109888e681f/AndroidManifest.xml:27:13-29:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/156a8a7b30eca40c5ab54109888e681f/AndroidManifest.xml:27:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/156a8a7b30eca40c5ab54109888e681f/AndroidManifest.xml:28:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/156a8a7b30eca40c5ab54109888e681f/AndroidManifest.xml:28:25-75
+service#com.google.android.gms.tagmanager.TagManagerService
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/b92382c7e5b06cdd86984d3eea4a3f49/AndroidManifest.xml:25:9-27:42
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/b92382c7e5b06cdd86984d3eea4a3f49/AndroidManifest.xml:27:17-39
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/b92382c7e5b06cdd86984d3eea4a3f49/AndroidManifest.xml:26:17-41
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/b92382c7e5b06cdd86984d3eea4a3f49/AndroidManifest.xml:25:18-84
+activity#com.google.android.gms.tagmanager.TagManagerPreviewActivity
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/b92382c7e5b06cdd86984d3eea4a3f49/AndroidManifest.xml:28:9-37:20
+	android:noHistory
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/b92382c7e5b06cdd86984d3eea4a3f49/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/b92382c7e5b06cdd86984d3eea4a3f49/AndroidManifest.xml:29:13-87
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:tagmanager.c.${applicationId}
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/b92382c7e5b06cdd86984d3eea4a3f49/AndroidManifest.xml:31:13-36:29
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:tagmanager.c.com.parse.starter
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/b92382c7e5b06cdd86984d3eea4a3f49/AndroidManifest.xml:31:13-36:29
+data
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/b92382c7e5b06cdd86984d3eea4a3f49/AndroidManifest.xml:32:17-72
+	android:scheme
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/b92382c7e5b06cdd86984d3eea4a3f49/AndroidManifest.xml:32:23-69
+action#android.intent.action.VIEW
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/b92382c7e5b06cdd86984d3eea4a3f49/AndroidManifest.xml:33:17-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/b92382c7e5b06cdd86984d3eea4a3f49/AndroidManifest.xml:33:25-66
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/b92382c7e5b06cdd86984d3eea4a3f49/AndroidManifest.xml:35:17-77
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/b92382c7e5b06cdd86984d3eea4a3f49/AndroidManifest.xml:35:27-75
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/d9fd6b76d180b5b4c0bf769c81d8fa4c/AndroidManifest.xml:28:7-34:18
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/1564192e19e200d6503cd8c8c74ef3c0/AndroidManifest.xml:28:7-34:18
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/1564192e19e200d6503cd8c8c74ef3c0/AndroidManifest.xml:28:7-34:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/d9fd6b76d180b5b4c0bf769c81d8fa4c/AndroidManifest.xml:30:11-33
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/d9fd6b76d180b5b4c0bf769c81d8fa4c/AndroidManifest.xml:29:11-83
+intent-filter#action:name:com.google.android.gms.measurement.UPLOAD
+ADDED from [com.google.firebase:firebase-analytics:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/d9fd6b76d180b5b4c0bf769c81d8fa4c/AndroidManifest.xml:31:9-33:25
+action#com.google.android.gms.measurement.UPLOAD
+ADDED from [com.google.firebase:firebase-analytics:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/d9fd6b76d180b5b4c0bf769c81d8fa4c/AndroidManifest.xml:32:11-77
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/d9fd6b76d180b5b4c0bf769c81d8fa4c/AndroidManifest.xml:32:19-75
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/d9fd6b76d180b5b4c0bf769c81d8fa4c/AndroidManifest.xml:36:7-39:37
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/1564192e19e200d6503cd8c8c74ef3c0/AndroidManifest.xml:36:7-39:37
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/1564192e19e200d6503cd8c8c74ef3c0/AndroidManifest.xml:36:7-39:37
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/d9fd6b76d180b5b4c0bf769c81d8fa4c/AndroidManifest.xml:38:11-33
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/d9fd6b76d180b5b4c0bf769c81d8fa4c/AndroidManifest.xml:39:11-35
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/d9fd6b76d180b5b4c0bf769c81d8fa4c/AndroidManifest.xml:37:11-82
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/e612eaf747145c2dc3df946edec28b9b/AndroidManifest.xml:25:5-26:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/e612eaf747145c2dc3df946edec28b9b/AndroidManifest.xml:26:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/e612eaf747145c2dc3df946edec28b9b/AndroidManifest.xml:25:17-71
+permission#com.parse.starter.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/e612eaf747145c2dc3df946edec28b9b/AndroidManifest.xml:25:5-26:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/e612eaf747145c2dc3df946edec28b9b/AndroidManifest.xml:26:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/e612eaf747145c2dc3df946edec28b9b/AndroidManifest.xml:25:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/e612eaf747145c2dc3df946edec28b9b/AndroidManifest.xml:28:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/e612eaf747145c2dc3df946edec28b9b/AndroidManifest.xml:28:22-76
+uses-permission#com.parse.starter.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/e612eaf747145c2dc3df946edec28b9b/AndroidManifest.xml:28:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/e612eaf747145c2dc3df946edec28b9b/AndroidManifest.xml:28:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/e612eaf747145c2dc3df946edec28b9b/AndroidManifest.xml:32:9-41:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/e612eaf747145c2dc3df946edec28b9b/AndroidManifest.xml:34:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/e612eaf747145c2dc3df946edec28b9b/AndroidManifest.xml:35:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/e612eaf747145c2dc3df946edec28b9b/AndroidManifest.xml:33:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+action:name:com.google.android.c2dm.intent.REGISTRATION+category:name:${applicationId}
+ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/e612eaf747145c2dc3df946edec28b9b/AndroidManifest.xml:36:13-40:29
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+action:name:com.google.android.c2dm.intent.REGISTRATION+category:name:com.parse.starter
+ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/e612eaf747145c2dc3df946edec28b9b/AndroidManifest.xml:36:13-40:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/e612eaf747145c2dc3df946edec28b9b/AndroidManifest.xml:37:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/e612eaf747145c2dc3df946edec28b9b/AndroidManifest.xml:37:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/e612eaf747145c2dc3df946edec28b9b/AndroidManifest.xml:38:17-86
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/e612eaf747145c2dc3df946edec28b9b/AndroidManifest.xml:38:25-83
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/e612eaf747145c2dc3df946edec28b9b/AndroidManifest.xml:39:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/e612eaf747145c2dc3df946edec28b9b/AndroidManifest.xml:39:27-58
+category#com.parse.starter
+ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/e612eaf747145c2dc3df946edec28b9b/AndroidManifest.xml:39:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/e612eaf747145c2dc3df946edec28b9b/AndroidManifest.xml:39:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/e612eaf747145c2dc3df946edec28b9b/AndroidManifest.xml:45:9-47:40
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/e612eaf747145c2dc3df946edec28b9b/AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/e612eaf747145c2dc3df946edec28b9b/AndroidManifest.xml:46:13-86
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/e612eaf747145c2dc3df946edec28b9b/AndroidManifest.xml:51:9-57:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/e612eaf747145c2dc3df946edec28b9b/AndroidManifest.xml:53:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/e612eaf747145c2dc3df946edec28b9b/AndroidManifest.xml:52:13-77
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/e612eaf747145c2dc3df946edec28b9b/AndroidManifest.xml:54:13-56:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/e612eaf747145c2dc3df946edec28b9b/AndroidManifest.xml:54:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/e612eaf747145c2dc3df946edec28b9b/AndroidManifest.xml:55:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/e612eaf747145c2dc3df946edec28b9b/AndroidManifest.xml:55:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/00995a89bb22332a5f6fc99b76d00616/AndroidManifest.xml:7:9-11:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/00995a89bb22332a5f6fc99b76d00616/AndroidManifest.xml:8:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/00995a89bb22332a5f6fc99b76d00616/AndroidManifest.xml:10:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/00995a89bb22332a5f6fc99b76d00616/AndroidManifest.xml:11:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/00995a89bb22332a5f6fc99b76d00616/AndroidManifest.xml:9:13-58
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/ca7eeb6ee5953d0e7a163ad6e3188ccd/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/ca7eeb6ee5953d0e7a163ad6e3188ccd/AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:9.4.0] /Users/marta/.gradle/caches/transforms-2/files-2.1/ca7eeb6ee5953d0e7a163ad6e3188ccd/AndroidManifest.xml:22:13-58
